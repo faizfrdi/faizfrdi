@@ -13,7 +13,7 @@
 ### 👨‍💻 About Me
 
 Hi! I'm Firdi, an Informatics student at UIN Syarif Hidayatullah Jakarta.  
-Currently I'm interning at **PT Adhi Karya** in the IT Division, where I'm getting hands-on experience with real-world tech projects — especially in **Laravel-based web development**.
+Currently I'm interning at **PT Adhi Karya** in the IT Division, where I'm getting hands-on experience with real-world tech projects especially in **Laravel-based web development**.
 
 I enjoy turning problems into clean, user-friendly solutions.  
 Still learning, still building, still curious. 🌱
@@ -22,11 +22,10 @@ Still learning, still building, still curious. 🌱
 
 ### 🚧 What I’m Up To Right Now
 
-- 🔧 Interning at **PT Adhi Karya** (Laravel, layout bug-fixing, managing modules)
+- 🔧 Interning at **PT Adhi Karya** 
 - 📚 Learning full-stack web dev with Laravel, Tailwind, Blade
 - 🤖 Exploring AI & ML fundamentals in spare time
 - 🔐 Studying Cybersecurity, Cloud Computing, and IT Project Management
-- 🎨 Occasionally designing for student orgs (HIMTI vibes)
 
 ---
 
@@ -35,13 +34,13 @@ Still learning, still building, still curious. 🌱
 Here are some tools & languages I've worked with or currently learning:
 
 - **Languages:**  
-  `PHP` · `JavaScript` · `Python` · `SQL` · (learning) `Java`
+  `PHP` · `JavaScript` · `Python` · `SQL` · `Java`
 
 - **Frameworks & Tools:**  
   `Laravel` · `Bootstrap` · `Tailwind CSS` · `Git` · `VS Code` · `OpenCV`
 
 - **Others:**  
-  `Figma` · `Trello` · `Notion` · `MATLAB` · `Linux Basics`
+  `Figma` · `Trello` · `MATLAB` · `Linux Basics`
 
 ---
 
@@ -67,7 +66,7 @@ Here are some tools & languages I've worked with or currently learning:
 
 ### 📌 Fun Fact
 
-> I like learning things the hard way — then teaching it the easy way.  
+> I like learning things the hard way then teaching it the easy way.  
 > Also, I believe every bug has a reason... even if that reason is me. 😅
 
 ---
