@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <em>Informatics student · Aspiring Web Developer · Tech Explorer</em>
+  <em>Informatics student · Web Developer · Tech Explorer</em>
 </p>
 
 ---
