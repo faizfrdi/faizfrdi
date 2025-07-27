@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hi+there!+👋+I'm+Firdi;Welcome+to+my+GitHub+profile!;Always+learning+and+building+cool+stuff!+💡" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Hi there! 👋 I'm Firdi</h1>
-
 <p align="center">
   <em>Informatics student · Aspiring Web Developer · Tech Explorer</em>
 </p>
