@@ -12,11 +12,11 @@
 
 ### About Me
 
-Hi! I'm Firdi, an Informatics student at UIN Syarif Hidayatullah Jakarta.  
+Hi! I'm Faiz Firdi Naya Pria, an Informatics student at UIN Syarif Hidayatullah Jakarta.  
 Currently I'm interning at **PT Adhi Karya** in the IT Division, where I'm getting hands-on experience with real-world tech projects especially in **Laravel based web development**.
 
 I enjoy turning problems into clean, user friendly solutions.  
-Still learning, still building, still curious. 🌱
+Still learning, still building, still curious. 
 
 ---
 
