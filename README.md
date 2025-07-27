@@ -33,14 +33,33 @@ Still learning, still building, still curious. 🌱
 
 Here are some tools & languages I've worked with or currently learning:
 
-- **Languages:**  
-  `PHP` · `JavaScript` · `Python` · `SQL` · `Java`
+### 🧠 Languages
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
 
-- **Frameworks & Tools:**  
-  `Laravel` · `Bootstrap` · `Tailwind CSS` · `Git` · `VS Code` · `OpenCV`
+### 🔧 Frameworks & Tools
+<p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
 
-- **Others:**  
-  `Figma` · `Trello` · `MATLAB` · `Linux Basics`
+### 🛠 Others
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
 
 ---
 
@@ -58,10 +77,17 @@ Here are some tools & languages I've worked with or currently learning:
 
 ### 🌍 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/faiz-firdi-naya-pria)
-- 📬 Email: faizfirdinayapria@gmail.com
-- 🖼️ Portfolio: Coming soon...
-
+<p>
+  <a href="https://www.linkedin.com/in/faiz-firdi-naya-pria">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:faizfirdinayapria@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
+</p>
 ---
 
 ### 📌 Fun Fact
