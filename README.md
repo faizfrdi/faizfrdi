@@ -10,7 +10,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 Hi! I'm Firdi, an Informatics student at UIN Syarif Hidayatullah Jakarta.  
 Currently I'm interning at **PT Adhi Karya** in the IT Division, where I'm getting hands-on experience with real-world tech projects especially in **Laravel based web development**.
@@ -20,20 +20,20 @@ Still learning, still building, still curious. 🌱
 
 ---
 
-### 🚧 What I’m Up To Right Now
+### What I’m Up To Right Now
 
-- 🔧 Interning at **PT Adhi Karya** 
-- 📚 Learning full stack web dev with Laravel, Tailwind, Blade
-- 🤖 Exploring AI & ML fundamentals in spare time
-- 🔐 Studying Cybersecurity, Cloud Computing, and IT Project Management
+- Interning at **PT Adhi Karya** 
+- Learning full stack web dev with Laravel, Tailwind, Blade
+- Exploring AI & ML fundamentals in spare time
+- Studying Cybersecurity, Cloud Computing, and IT Project Management
 
 ---
 
-### 🧠 Languages & Tools
+### Languages & Tools
 
 Here are some tools & languages I've worked with or currently learning:
 
-### 🧠 Languages
+### Languages
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -42,7 +42,7 @@ Here are some tools & languages I've worked with or currently learning:
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
-### 🔧 Frameworks & Tools
+### Frameworks & Tools
 <p>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
@@ -52,7 +52,7 @@ Here are some tools & languages I've worked with or currently learning:
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
-### 🛠 Others
+### Others
 <p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
@@ -63,7 +63,7 @@ Here are some tools & languages I've worked with or currently learning:
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=faizfrdi&show_icons=true&theme=tokyonight" alt="Firdi's GitHub Stats" />
@@ -75,30 +75,21 @@ Here are some tools & languages I've worked with or currently learning:
 
 ---
 
-### 🌍 Let's Connect!
+### Let's Connect!
 
 <p>
-  <a href="https://www.linkedin.com/in/faiz-firdi-naya-pria">
+  <a href="https://www.linkedin.com/in/faiz-firdi-naya-pria" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:faizfirdinayapria@email.com">
+  <a href="mailto:faizfirdinayapria@email.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://yourportfolio.com">
+  <a href="https://yourportfolio.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
-  <a href="https://discord.com/users/755246149509578772">
+  <a href="https://discord.com/users/755246149509578772" target="_blank">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
 
 ---
-
-### 📌 Fun Fact
-
-> I like learning things the hard way then teaching it the easy way.  
-> Also, I believe every bug has a reason... even if that reason is me. 😅
-
----
-
-Thanks for stopping by! Let's build something awesome together 🚀
