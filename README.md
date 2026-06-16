@@ -29,19 +29,13 @@ Currently, I'm working on my undergraduate thesis project, developing a virtual 
 
 ---
 
-### Featured Projects
+### Ongoing Projects
 
 #### 🚀 FST Roblox Virtual Campus
 - Undergraduate thesis project
 - Interactive 3D virtual campus built with Roblox Studio
 - Includes physics-based educational mini-games
 - Designed to introduce campus life through immersive experiences
-
-#### 📚 Readify
-- Mobile online library UI/UX prototype
-- Led a 4-member team throughout the design process
-- Conducted user research and usability testing
-- Designed a high-fidelity interactive prototype in Figma
 
 ---
 
